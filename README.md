@@ -1,9 +1,8 @@
 ## Olá, eu sou o José Reinaldo, e sou estudante na área de programação.
 
 - ❤️ Perfil criado para publicar meus projetos, minhas ideias e meus estudos.
-- 👜 Em busca de estágio na área de Front-End
+- 👜 Estagiário em T.I | Multirisco
 - 🌱 Análise e Desenvolvimento de Sistemas (IFTM) - 3° Período
-- 💣 Estudando no momento HTML e CSS
 
  ##
  
