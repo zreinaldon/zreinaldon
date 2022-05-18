@@ -2,7 +2,8 @@
 
 - ❤️ Perfil criado para publicar meus projetos, minhas ideias e meus estudos.
 - 🌱 Análise e Desenvolvimento de Sistemas (IFTM) - 2° Período
-- 🕶 Desejo seguir na carreira de dev front-end
+- 🕶  Desejo seguir na carreira de dev front-end
+- 🙂 Atualmente estudando JS
 
  ##
  
