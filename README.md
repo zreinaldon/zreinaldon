@@ -1,8 +1,7 @@
 ## Olá, eu sou o José Reinaldo, e sou estudante na área de programação.
 
 - ❤️ Perfil criado para publicar meus projetos, minhas ideias e meus estudos.
-- 👜 Estagiário em T.I | Granto Seguros
-- 🌱 Análise e Desenvolvimento de Sistemas (IFTM) - 3° Período
+- 🌱 Análise e Desenvolvimento de Sistemas (IFTM) - 2° Período
 - 🕶 Desejo seguir na carreira de dev front-end
 
  ##
