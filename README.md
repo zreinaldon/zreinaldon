@@ -6,6 +6,8 @@
 - 🙂 Atualmente estudando JS
 
  ##
+ Projetos HTML/CSS/JS : <a href="https://zreinaldon.github.io/projetos-html-css-js/"> Desafios Codelândia </a>
+ ##
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ze-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
