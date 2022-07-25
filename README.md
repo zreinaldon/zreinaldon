@@ -6,7 +6,7 @@
 - 🙂 Atualmente estudando JS
 
 ##
-Projetos HTML/CSS/JS : <a href="https://zreinaldon.github.io/projetos-html-css-js/" target="_blank"> Desafios Codelândia </a>
+Projetos HTML/CSS/JS : <a href="https://zreinaldon.github.io/projetos-html-css-js/" target="_blank">... </a>
 ##
  
 <div style="display: inline_block"><br>
