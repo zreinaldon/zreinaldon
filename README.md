@@ -1,8 +1,8 @@
 ## Olá, eu sou o José Reinaldo, e sou estudante na área de programação.
 
 - ❤️ Perfil criado para publicar meus projetos, minhas ideias e meus estudos.
-- 🌱 Análise e Desenvolvimento de Sistemas (IFTM) - 2° Período
-- 🕶  Desejo seguir na carreira de dev
+- 🌱 Análise e Desenvolvimento de Sistemas (IFTM) - Cursando
+- 🕶  Sonho em seguir na carreira DEV
 - 🙂 Atualmente estudando BD e JS
 
 ##
