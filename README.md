@@ -3,7 +3,7 @@
 - ❤️ Perfil criado para publicar meus projetos, minhas ideias e meus estudos.
 - 🌱 Análise e Desenvolvimento de Sistemas (IFTM) - 2° Período
 - 🕶  Desejo seguir na carreira de dev
-- 🙂 Atualmente estudando JS
+- 🙂 Atualmente estudando BD e JS
 
 ##
 Projetos HTML/CSS/JS : <a href="https://zreinaldon.github.io/projetos-html-css-js/" target="_blank"> Projetos </a>
