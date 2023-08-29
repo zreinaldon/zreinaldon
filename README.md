@@ -5,7 +5,7 @@
 - 🕶  Sonho em seguir na carreira DEV
 
 ##
-Projetos HTML/CSS/JS : <a href="https://zreinaldon.github.io/projetos-html-css-js/" target="_blank"> Projetos </a>
+
 ##
  
 <div style="display: inline_block"><br>
